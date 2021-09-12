@@ -3,6 +3,7 @@
 - 🌱 I’m currently working as a Business Management Intern at Snapdeal.
 - 👀 I’m interested in Technical Job as I have good Coding Skills.
 - 📫 You can reach me @LinkedIn - https://www.linkedin.com/in/aditi-garg-7b3459178/
+- 😇 @HackerRank - https://www.hackerrank.com/aditi1423_cse18
 
 <!---
 AditiGarg09/AditiGarg09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
