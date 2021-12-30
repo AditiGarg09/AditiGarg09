@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AditiGarg09
 - 📓 I’m 4th year B.E. Computer Science Student at Chitkara University.
 - 🌱 Earlier, I have worked as a Business Management Intern at Snapdeal.
--    Currently, I'm working as a System Engineer Intern at Snapdeal.
+- 💻 Currently, I'm working as a System Engineer Intern at Snapdeal.
 - 👀 I’m interested in Technical Job as I have good Coding Skills.
 - 📫 You can reach me @LinkedIn - https://www.linkedin.com/in/aditi-garg-7b3459178/
 - 😇 @HackerRank - https://www.hackerrank.com/aditi1423_cse18
